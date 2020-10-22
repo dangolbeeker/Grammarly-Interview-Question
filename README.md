@@ -2,7 +2,7 @@
 My Solution in Java
 
 
-#This problem was asked by Grammarly.
+# This problem was asked by Grammarly.
 
 Soundex is an algorithm used to categorize phonetically, such that two names that sound alike but are spelled differently have the same representation.
 
@@ -26,5 +26,5 @@ r → 6
 5.If you don't have three numbers yet, append zeros until you do. Keep the first three numbers.
 Using this scheme, Jackson and Jaxen both map to J250.
 
-##Implement Soundex
+## Implement Soundex
 https://en.wikipedia.org/wiki/Soundex
